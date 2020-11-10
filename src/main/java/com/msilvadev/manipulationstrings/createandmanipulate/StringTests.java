@@ -26,5 +26,8 @@ public class StringTests {
         String java = "Java";
         System.out.println(java.substring(1)); // what position I am beginning, this case first 'A'
         System.out.println(java.substring(-1)); // StringIndexOutOfBoundsException
+
+        System.out.println("Java".equals("java")); // false
+        System.out.println("Java".equalsIgnoreCase("java")); //true
     }
 }
