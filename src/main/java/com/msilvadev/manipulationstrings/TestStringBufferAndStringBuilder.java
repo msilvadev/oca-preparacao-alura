@@ -26,6 +26,9 @@ public class TestStringBufferAndStringBuilder {
         System.out.println(stringBuffer3);
 
         System.out.println(stringBuffer.reverse());
+
+        String s=50+30+"Sachin"+40+40;
+        System.out.println(s);//80Sachin4040
     }
 
 }
