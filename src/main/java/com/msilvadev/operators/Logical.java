@@ -13,6 +13,15 @@ public class Logical {
         // And when we use short circut Java not execute rigth side if the condition will be false.
         System.out.println(1 != 1 && methodTest("first"));
         System.out.println(1 != 1 || methodTest("second -> "));
+
+        // Be careful with short circuit
+        int i = 10;
+        System.out.println(i == 2 & i++ == 0); // print false, add anyway
+        System.out.println(i); // print 11
+
+        int j = 10;
+        System.out.println(j == 2 && j++ == 0); // print false, not add
+        System.out.println(j); // print 10
     }
 
     private static boolean methodTest(String text) {
