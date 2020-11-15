@@ -29,5 +29,8 @@ public class StringTests {
 
         System.out.println("Java".equals("java")); // false
         System.out.println("Java".equalsIgnoreCase("java")); //true
+
+        String s2 = null;
+        String s3 = new String(s2); // NullPointerException because s is null
     }
 }
