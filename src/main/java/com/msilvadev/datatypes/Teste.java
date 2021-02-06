@@ -34,7 +34,7 @@ public class Teste {
         System.out.println(intHex); // So, here in console will print value 15, which  is represented with letter F on hexadecimal base
 
         // If we pass a literal integer number with 0b..., Java will consider which this number on binary base.
-        int intBinary = 0b1;
+        int intBinary = 0;
         System.out.println(intBinary); // So, here in console will print value 1, which  is represented with number 1 on binary base
 
         Car car = new Car();
