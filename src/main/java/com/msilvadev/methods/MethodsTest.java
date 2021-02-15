@@ -14,12 +14,14 @@ class ClassWithMethods{
     }
 
     /**
-     * Not works because we need cover all possibilities with return.
+     * We need cover all possibilities with return.
      * @param i
      * @return
      */
     String getText(int i) {
         if(i > 0) return "greater";
         else if(i < 0) return "less";
+
+        return "";
     }
 }

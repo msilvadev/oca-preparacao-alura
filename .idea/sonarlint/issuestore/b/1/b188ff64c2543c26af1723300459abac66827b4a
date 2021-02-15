@@ -1,0 +1,35 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ½Ò8ÿ˜ÚÂÜ.
+L
+java:S2201"/The return value of "toUpperCase" must be used.(¼âŞè8ÿ˜ÚÂÜ.
+=
+java:S2129"" Remove this "String" constructor(Œª¸›8Â…şŸÛ.
+L
+java:S1481"/Remove this unused "directName" local variable.(ÅÌÊı8ÿ˜ÚÂÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾ÍÅ–8œğÙÂÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãÁ™8œğÙÂÜ.
+[
+java:S1854	"9Remove this useless assignment to local variable "name1".(÷Êå«úÿÿÿÿ8ÿ˜ÚÂÜ.
+L
+java:S1481	"*Remove this unused "name1" local variable.(÷Êå«úÿÿÿÿ8ÿ˜ÚÂÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ªè¹şÿÿÿÿ8ÿ˜ÚÂÜ.
+S
+java:S1481"1Remove this unused "indirectName" local variable.(™ğùĞüÿÿÿÿ8ÿ˜ÚÂÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÔÕÁøÿÿÿÿ8ÿ˜ÚÂÜ.
+B
+java:S2129" Remove this "String" constructor(™ğùĞüÿÿÿÿ8ÿ˜ÚÂÜ.
+[
+java:S1854">Remove this useless assignment to local variable "directName".(ÅÌÊı8ÿ˜ÚÂÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬àşŠ8œğÙÂÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™ÇÚËûÿÿÿÿ8ÿ˜ÚÂÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Òšçæ8Á¸ÙÂÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûÆïÏıÿÿÿÿ8œğÙÂÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÑˆŠúÿÿÿÿ8ÿ˜ÚÂÜ.
+b
+java:S1854"@Remove this useless assignment to local variable "indirectName".(™ğùĞüÿÿÿÿ8ÿ˜ÚÂÜ.
+€
+java:S3039"cRefactor this "substring" call; it will result in an "StringIndexOutOfBounds" exception at runtime.(ãÁ™8œğÙÂÜ.
+S
+java:S1854""6Remove this useless assignment to local variable "s3".(Œª¸›8ğ†ÛÂÜ.
+D
+java:S1481""'Remove this unused "s3" local variable.(Œª¸›8ğ†ÛÂÜ.

@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜ñ©8«é¦¡ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šìşÿÿÿÿ8ÃÏ±¡ø.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(üŸ¢ª8üò”¡ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Ù¤¡ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½†¿ê8È­¶¡ø.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8×¼¤¡ø.
+X
+java:S1119";Refactor the code to remove this label and the need for it.(ğ•â€8¸¢µ¡ø.

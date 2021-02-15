@@ -1,0 +1,31 @@
+
+V
+java:S1854	"9Remove this useless assignment to local variable "multi".(úÊ¾ø8¥ÂòÃÜ.
+`
+java:S3518"CMake sure this expression can't be zero before doing this division.(ĞŒôÄ8˜øÄÜ.
+\
+java:S1854
+":Remove this useless assignment to local variable "divide".(’Åàçøÿÿÿÿ8¥ÂòÃÜ.
+T
+java:S1854"7Remove this useless assignment to local variable "sub".(á³Ù8¥ÂòÃÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê®şİ8ò¬ÄÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷İÃÀúÿÿÿÿ8—¼”ÄÜ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(©ŸğÛüÿÿÿÿ8£÷îÊÜ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8÷åËÜ.
+G
+java:S1481	"*Remove this unused "multi" local variable.(úÊ¾ø8½¡óÃÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Óÿˆ8³¹øÃÜ.
+E
+java:S1481"(Remove this unused "add" local variable.(¼²áÀ8­ññÃÜ.
+E
+java:S1481"(Remove this unused "sub" local variable.(á³Ù8ƒŞòÃÜ.
+T
+java:S1854"7Remove this useless assignment to local variable "add".(¼²áÀ8­ññÃÜ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Á©íÃÜ.
+>
+java:S1659"!Declare "ten" on a separate line.(Âì¢ğ8•³ïÃÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á˜¦€øÿÿÿÿ8°•¡ÄÜ.
+M
+java:S1481
+"+Remove this unused "divide" local variable.(’Åàçøÿÿÿÿ8ùïóÃÜ.
