@@ -7,7 +7,7 @@ public class ConstructorOverload {
         int[] i = new int[0];
         System.out.println(i.length);
 
-        myMethod(0, new Object()); // will not compile
+        //myMethod(0, new Object()); // will not compile
     }
 
     public void myMethod(int m, Object p, double d){

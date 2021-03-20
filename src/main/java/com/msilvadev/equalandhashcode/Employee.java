@@ -8,7 +8,6 @@ public class Employee {
     private String cpf;
     private String cargo;
 
-
     public String getName() {
         return name;
     }
@@ -39,13 +38,13 @@ public class Employee {
      * @param o
      * @return
      */
-//    @Override
-//    public boolean equals(Object o) {
-//        if (this == o) return true;
-//        if (o == null || getClass() != o.getClass()) return false;
-//        Employee employee = (Employee) o;
-//        return cpf.equals(employee.cpf);
-//    }
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return cpf.equals(employee.cpf);
+    }
 
     @Override
     public int hashCode() {
